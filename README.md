@@ -1,2 +1,2 @@
-# FUTURE_DS_01
+# Dashboard
 Power BI dashboard analyzing online retail sales data with insights on product performance, country-wise sales, and monthly trends.
